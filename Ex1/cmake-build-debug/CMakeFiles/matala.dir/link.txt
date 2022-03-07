@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/matala.dir/main.cpp.o CMakeFiles/matala.dir/matala_1/mat.cpp.o -o matala 
