@@ -1,3 +1,0 @@
-/home/raz/CLionProjects/matala/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/raz/CLionProjects/matala/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/raz/CLionProjects/matala/cmake-build-debug/CMakeFiles/matala.dir
